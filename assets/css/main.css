@@ -4224,6 +4224,8 @@
 			.grid-style > :nth-child(1n + 1),
 			.grid-style > :nth-child(1n) {
 				width: calc(100% + 2rem);
+				
 			}
 
+			#three, #four, #footer section { display:none}
 		}
